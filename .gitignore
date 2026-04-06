@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets and local env (never commit)
+.env
+.env.py
+.env.rtf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Streamlit / app output
+convo_ai_export.txt
+
+# Optional large local artifacts (uncomment if needed)
+# *.pdf
+# *.docx

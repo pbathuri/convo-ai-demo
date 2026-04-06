@@ -1,0 +1,16 @@
+{
+  "title": "Convo AI was fun until progression logic got real",
+  "excerpt": "Convo AI started as a gamified learning prototype. The hard part became progression logic, state consistency, and writing tasks that do not feel fake.",
+  "slug": "convo-ai-build-loop",
+  "category": "Projects",
+  "tags": [
+    "streamlit",
+    "learning",
+    "product",
+    "iteration"
+  ],
+  "publishDate": "draft",
+  "seoTitle": "Convo AI was fun until progression logic got real",
+  "seoDescription": "Convo AI started as a gamified learning prototype. The hard part became progression logic, state consistency, and writing tasks that do not feel fake.",
+  "coverImageFilename": "convo-ai-progression-screen.png"
+}
