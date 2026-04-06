@@ -53,7 +53,7 @@ Run the last command from the **repository root** so `data/` paths work.
 | `docs/` | Architecture, module index, setup guide |
 | `materials/` | Blog drafts, cover art, marketing PDFs/screenshots (not used at runtime) |
 
-Legacy copies of this project existed under multiple Desktop paths; **this repository is the canonical copy** for development and documentation.
+Legacy copies of this project existed under multiple Desktop paths; **this repository is the canonical copy** for development and documentation. See [docs/LEGACY_LOCAL_COPIES.md](docs/LEGACY_LOCAL_COPIES.md) for a recorded list and cleanup guidance.
 
 ---
 
@@ -64,6 +64,7 @@ Legacy copies of this project existed under multiple Desktop paths; **this repos
 | [docs/GETTING_STARTED.md](docs/GETTING_STARTED.md) | Install, run, troubleshooting |
 | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | End-to-end flow, diagrams, data/config |
 | [docs/MODULE_REFERENCE.md](docs/MODULE_REFERENCE.md) | File-by-file responsibilities |
+| [docs/LEGACY_LOCAL_COPIES.md](docs/LEGACY_LOCAL_COPIES.md) | Old Desktop duplicate paths; this repo is canonical |
 | [materials/README.md](materials/README.md) | Non-code assets explained |
 
 ---

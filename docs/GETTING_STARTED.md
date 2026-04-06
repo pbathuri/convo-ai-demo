@@ -48,3 +48,7 @@ Open the URL Streamlit prints (usually `http://localhost:8501`).
 
 - **`materials/`** — Blog draft, cover image, and marketing screenshots/PDFs. Safe to ignore for development.
 - **`Overview.md`**, **`one_pager.md`**, **`Progress Log.md`** — Product and history notes from the original project.
+
+## Multiple folders named convo-ai on your computer?
+
+If you have older copies under Desktop paths, see **[LEGACY_LOCAL_COPIES.md](LEGACY_LOCAL_COPIES.md)** — use a fresh **`git clone`** of this repo as the only working copy unless you know a folder has unique changes.
